@@ -1,4 +1,4 @@
-# OTXServer Full Global Daily Updated!  [![Travis-CI Build Status](https://travis-ci.org/malucooo/Otxserver-New.svg?branch=master)](https://travis-ci.org/malucooo/Otxserver-New) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/malucooo/otxserver-new?branch=master&svg=true)](https://ci.appveyor.com/project/malucooo/otxserver-new/) 
+# otxserver Full Global !  [![Travis-CI Build Status](https://travis-ci.org/Crock-Linux/otxserver.svg?branch=master)](https://travis-ci.org/Crock-Linux/otxserver) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/Crock-Linux/otxserver?branch=master&svg=true)](https://ci.appveyor.com/project/Crock-Linux/otxserver/) 
 
 Servidor de Tibia mantido por Crock-Linux. O servidor usa como base OTxserver-NEW.
 

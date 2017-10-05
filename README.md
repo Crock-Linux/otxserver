@@ -1,13 +1,13 @@
 # OTXServer Full Global Daily Updated!  [![Travis-CI Build Status](https://travis-ci.org/malucooo/Otxserver-New.svg?branch=master)](https://travis-ci.org/malucooo/Otxserver-New) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/malucooo/otxserver-new?branch=master&svg=true)](https://ci.appveyor.com/project/malucooo/otxserver-new/) 
 
-Servidor de Tibia mantido por Malucooo. O servidor usa como base OTX Server 3.10.
+Servidor de Tibia mantido por Crock-Linux. O servidor usa como base OTxserver-NEW.
 
 # Tutoriais
-Temos uma Wiki explicando como compilar o servidor  [OTXServer Wiki](https://github.com/malucooo/Otxserver-New/wiki)
+Temos uma Wiki explicando como compilar o servidor  [otxServer Wiki](https://github.com/malucooo/Otxserver-New/wiki)
 
 Video criando cliente com ip [Próprio](https://www.youtube.com/watch?v=AsZIpPytDb8)
 
-Video COMPILANDO O [OTX](https://youtu.be/LPMrc08xlaw))
+Video COMPILANDO O [otxserver](https://youtu.be/LPMrc08xlaw))
 
 Turorial rapido, extraia essa pasta em HTDOCS(xampp), pronto vai estar sincronizado suas imagens com a store, claro se vocÊ usar local- host, se for ip também ira funcionar.
 [Imagens Store](http://www.mediafire.com/file/jf8abs8z9h9i2h8/store.rar)
@@ -50,15 +50,11 @@ Ou, se você estiver usando: [Gesior](https://gist.github.com/jlcvp/2f1772cbbcdf
 [Remeres Map Editor Official](https://github.com/hjnilsson/rme).
 
 # Issues / Problemas
-Nós utilizamos o [Issue Tracker do Github](https://github.com/malucooo/Otxserver-new/issues).
+Nós utilizamos o [Issue Tracker do Github](https://github.com/Crock-Linux/otxserver/issues).
 
 # Ajudando no desenvolvimento
-Para ajudar o desenvolvimento do projeto, requisitamos que as colaborações sejam feitas mediante [Pull Requests no Github](https://github.com/malucooo/Otxserver-new/pulls). Pedimos também que seja explícitado as alterações/features que foram adicionadas e implementadas na requisição.
+Para ajudar o desenvolvimento do projeto, requisitamos que as colaborações sejam feitas mediante [Pull Requests no Github](https://github.com/Crock-Linux/otxserver/pulls). Pedimos também que seja explícitado as alterações/features que foram adicionadas e implementadas na requisição.
 
 # Perguntas e Suporte Geral
 Issues/Problemas não deve ser utilizado como forma de suporte para a utilização/criação de servidores fazendo uso do projeto, mas como um ferramenta utilizada para corrigir bugs e problemas que existam exclusivamente no projeto. Dessa forma, para uma interação mais agil sobre resoluções de bugs, por favor, ingresse ao [Grupo do Whatsapp] (https://chat.whatsapp.com/EaoiRFXYxmdKqgmdQpWfg8) relacionado ao projeto. Em caso de assuntos voltados a como rodar o servidor, programas necessários e requisitos minimos, fiquem a vontade para visitar a seção de tutoriais do TibiaKing e Otland (FORUMS RECOMENDADOS).
 
-# Contato:
-Facebook: www.facebook.com/erick.nunes.75
-Skype: e_nunes@live.com
-Whatsapp: +5493412804526

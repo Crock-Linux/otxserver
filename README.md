@@ -3,7 +3,7 @@
 Servidor de Tibia mantido por Crock-Linux. O servidor usa como base OTxserver-NEW.
 
 # Tutoriais
-Temos uma Wiki explicando como compilar o servidor  [otxServer Wiki](https://github.com/malucooo/Otxserver-New/wiki)
+Temos uma Wiki explicando como compilar o servidor  [otxserver Wiki](https://github.com/Crock-Linux/otxserver/wiki)
 
 Video criando cliente com ip [Próprio](https://www.youtube.com/watch?v=AsZIpPytDb8)
 
